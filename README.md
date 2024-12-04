@@ -1,7 +1,7 @@
-- 👋 Olá, eu sou Regiane Firmino
-- 🎓 Formada em Administração e pós graduada em Gestão de Pessoas
-- 📚 Estudande do curso superior de Tecnologia em Redes de Computadores
--
+- 👋 Olá, eu sou Regiane Firmino Gomes
+- 🎓 Formada em Administração de Empresas e pós graduada em Gestão de Pessoas
+- 📚 Atualmente estou cursando Tecnologia em Redes de Computadores
+
 
 <!---
 regigomes/regigomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
