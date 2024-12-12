@@ -1,6 +1,4 @@
-- 👋 Olá, eu sou Regiane Firmino Gomes
-- 🎓 Formada em Administração de Empresas e pós graduada em Gestão de Pessoas
-- 📚 Atualmente estou cursando Tecnologia em Redes de Computadores
+
 
 
 <!---
