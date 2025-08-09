@@ -6,4 +6,5 @@
 - 📚 Cursando Tecnologia em Redes de Computadores
 - 💻 Faço curso de Back-end Java na Adatech
 - 🏢 Trabalho na Microsoft como Cloud Solution Architect intern
+- 🔖 Possuo as certificações: AZ-900 AZ-305 e AI-900
   
