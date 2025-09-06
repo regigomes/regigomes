@@ -1,10 +1,14 @@
 ## Olá Sou Regiane  👋
 
-
+- 💻 Cloud Solution Architect Intern
 - 👩‍🎓 Formada em Administração de empresas
 - 👩‍🎓 MBA Gestão de pessoas
-- 📚 Cursando Tecnologia em Redes de Computadores
-- 💻Cursando Back-end Java na Adatech
-- 🏢 Trabalho na Microsoft como Cloud Solution Architect intern
-- 🔖 Possuo as certificações: AZ-900 AZ-305 e AI-900
+- 📚 Cursando Tecnologia em Redes de Computadore
+- 🎓 Estudando Backend com Java | Projetos com orientação a objetos 
+- 📜 Certificada em AZ-900 AZ-305 e AI-900
+
+ 
   
+
+ 
+
