@@ -5,7 +5,7 @@
 - 👩‍🎓 MBA Gestão de pessoas
 - 📚 Cursando Tecnologia em Redes de Computadores
 - 🎓 Estudando Backend com Java | Projetos com orientação a objetos 
-- 📜 Certificada em AZ-900 AZ-305 e AI-900
+- 📜 Certificada em AZ-900 AZ-305 AI-900 AI-102
 
  
   
