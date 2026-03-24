@@ -1,14 +1,9 @@
 ## Olá Sou Regiane  👋
 
-- 💻 Cloud Solution Architect Intern
-- 👩‍🎓 Formada em Administração de empresas
+- 💻 Analista de Engenharia de Software
+- 👩‍🎓 Administração de empresas
+- 👩‍🎓 Tecnologia em Redes de Computadores
 - 👩‍🎓 MBA Gestão de pessoas
-- 📚 Cursando Tecnologia em Redes de Computadores
-- 🎓 Estudando Backend com Java | Projetos com orientação a objetos 
-- 📜 Certificada em AZ-900 AZ-305 AI-900 AI-102
-
- 
-  
-
- 
-
+- 📚 Bootcamp Tecnologia em nuvem e IA
+- 📚 Bootcamp Backend com Java| Projetos com orientação a objetos 
+- 📜 Certificações:  AZ-900 AZ-305 AI-900 AI-102
