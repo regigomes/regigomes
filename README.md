@@ -1,8 +1,6 @@
 ## Olá Sou Regiane  👋
-
-- 💻 Analista de Engenharia de Software
-- 👩‍🎓 Administração de empresas
 - 👩‍🎓 Tecnologia em Redes de Computadores
+- 👩‍🎓 Administração de empresas
 - 👩‍🎓 MBA Gestão de pessoas
 - 📚 Bootcamp Tecnologia em nuvem e IA
 - 📚 Bootcamp Backend com Java| Projetos com orientação a objetos 
